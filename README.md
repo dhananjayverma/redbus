@@ -14,9 +14,6 @@ In this project , we have tried to make a perfect clone of redbus.in.
 * Install VS Code
 * Install Git
 
-## Clone the following git repository inside any folder:
-
-* https://github.com/nitansh11/redbus
 
 ##  Open the cloned git repo in VS Code and install the required dependencies.
 
